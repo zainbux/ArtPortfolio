@@ -13,3 +13,7 @@ Easy uploading of new projects on the fly
 Access to Sanity-Studio for full CRUD operations
 Leveraging Next.js 13 server components for fast server loading
 File-based dynamic routes
+
+[Deployed on Vercel](https://art-portfolio-chi.vercel.app/)
+
+
